@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SimpleMusicApp</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="list_songs">List Songs</string>
+    <string name="no_song_found">No song found</string>
+    <string name="name_song">Name Song</string>
+    <string name="name_author">Name Author</string>
+    <string name="title_of_the_song">Title of the song</string>
+    <string name="current_time">0:00</string>
+    <string name="total_time">4:00</string>
+    <string name="previous">Previous</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="next">Next</string>
+    <string name="clear">Clear</string>
+    <string name="simple_music_app">Simple Music App</string>
+    <string name="channel_play_music">Show notification for current playing songs</string>
+    <string name="request_permission">READ PERMISSION IS REQUIRED. PLEASE ALLOW FROM SETTINGS</string>
+    <string name="error_loading_songs">Error loading songs</string>
+</resources>
